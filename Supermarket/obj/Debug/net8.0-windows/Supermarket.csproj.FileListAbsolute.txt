@@ -16,3 +16,7 @@ D:\Archivos VSCM\Supermarket\Supermarket\obj\Debug\net8.0-windows\Supermarket.ge
 D:\Archivos VSCM\Supermarket\Supermarket\obj\Debug\net8.0-windows\ref\Supermarket.dll
 D:\Archivos VSCM\Supermarket\Supermarket\obj\Debug\net8.0-windows\Supermarket.Properties.Resources.resources
 D:\Archivos VSCM\Supermarket\Supermarket\obj\Debug\net8.0-windows\Supermarket.View.PayModeForm.resources
+D:\Archivos VSCM\Supermarket\Supermarket\obj\Debug\net8.0-windows\Supermarket.View.ProductsForm.resources
+D:\Archivos VSCM\Supermarket\Supermarket\obj\Debug\net8.0-windows\Supermarket.sourcelink.json
+D:\Archivos VSCM\Supermarket\Supermarket\obj\Debug\net8.0-windows\Supermarket.View.ProvidersForm.resources
+D:\Archivos VSCM\Supermarket\Supermarket\obj\Debug\net8.0-windows\Supermarket.View.CategoriesForm.resources
