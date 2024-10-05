@@ -15,6 +15,8 @@ namespace Supermarket.View
         internal CategoriesForm(ref CategoriesDAO categoriesDAO)
         {
             InitializeComponent();
+            this.BackgroundImage = Image.FromFile("D:\\Archivos VSCM\\Supermarket\\Supermarket\\Resources\\Supermarket.png");
+            this.BackgroundImageLayout = ImageLayout.Stretch;
             this.categoriesDAO = categoriesDAO;
             LoadCategoriesList();
             EditMode = false;

@@ -3,56 +3,24 @@
   "WorkspaceRootPath": "D:\\Archivos VSCM\\Supermarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|D:\\Archivos VSCM\\Supermarket\\supermarket\\view\\providersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\view\\providersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\view\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\view\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|D:\\Archivos VSCM\\Supermarket\\supermarket\\view\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\view\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\view\\paymodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\view\\paymodeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\view\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\view\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\view\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\view\\categoriesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\bussines\\paymodedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\bussines\\paymodedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\view\\providersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\view\\providersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\model\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\model\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\bussines\\providersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\bussines\\providersdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\model\\paymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\model\\paymode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\view\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\view\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|d:\\archivos vscm\\supermarket\\supermarket\\bussines\\paymodedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48970EDE-AE1E-40A6-9476-D674F4A47169}|Supermarket\\Supermarket.csproj|solutionrelative:supermarket\\bussines\\paymodedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,101 +30,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PayModeForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\PayModeForm.cs",
-              "RelativeDocumentMoniker": "Supermarket\\View\\PayModeForm.cs",
-              "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\PayModeForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Supermarket\\View\\PayModeForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:37:04.958Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\MainForm.cs",
-              "RelativeDocumentMoniker": "Supermarket\\MainForm.cs",
-              "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\MainForm.cs",
-              "RelativeToolTip": "Supermarket\\MainForm.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:22:04.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\MainForm.cs",
-              "RelativeDocumentMoniker": "Supermarket\\MainForm.cs",
-              "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\MainForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Supermarket\\MainForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:22:01.735Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoriesForm.cs",
-              "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\CategoriesForm.cs",
-              "RelativeDocumentMoniker": "Supermarket\\View\\CategoriesForm.cs",
-              "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\CategoriesForm.cs",
-              "RelativeToolTip": "Supermarket\\View\\CategoriesForm.cs",
-              "ViewState": "AgIAALQAAAAAAAAAAAAewMAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T15:02:08.278Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CategoriesForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\CategoriesForm.cs",
-              "RelativeDocumentMoniker": "Supermarket\\View\\CategoriesForm.cs",
-              "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\CategoriesForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Supermarket\\View\\CategoriesForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:59:03.528Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "ProvidersDAO.cs",
               "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\Bussines\\ProvidersDAO.cs",
               "RelativeDocumentMoniker": "Supermarket\\Bussines\\ProvidersDAO.cs",
               "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\Bussines\\ProvidersDAO.cs",
               "RelativeToolTip": "Supermarket\\Bussines\\ProvidersDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T14:54:24.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PayMode.cs",
-              "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\Model\\PayMode.cs",
-              "RelativeDocumentMoniker": "Supermarket\\Model\\PayMode.cs",
-              "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\Model\\PayMode.cs",
-              "RelativeToolTip": "Supermarket\\Model\\PayMode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:54:15.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "PayModeDAO.cs",
               "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\Bussines\\PayModeDAO.cs",
               "RelativeDocumentMoniker": "Supermarket\\Bussines\\PayModeDAO.cs",
@@ -164,58 +62,32 @@
               "RelativeToolTip": "Supermarket\\Bussines\\PayModeDAO.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAYwD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:54:12.996Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Categories.cs",
-              "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\Model\\Categories.cs",
-              "RelativeDocumentMoniker": "Supermarket\\Model\\Categories.cs",
-              "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\Model\\Categories.cs",
-              "RelativeToolTip": "Supermarket\\Model\\Categories.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:52:29.219Z"
+              "WhenOpened": "2024-10-02T14:54:12.996Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProvidersForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\ProvidersForm.cs",
-              "RelativeDocumentMoniker": "Supermarket\\View\\ProvidersForm.cs",
-              "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\ProvidersForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Supermarket\\View\\ProvidersForm.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:43:34.666Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "ProductsForm.cs",
               "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\ProductsForm.cs",
               "RelativeDocumentMoniker": "Supermarket\\View\\ProductsForm.cs",
               "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\ProductsForm.cs",
               "RelativeToolTip": "Supermarket\\View\\ProductsForm.cs",
-              "ViewState": "AgIAAMcAAAAAAAAAAAAAANYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwHwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T14:43:06.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "ProvidersForm.cs",
               "DocumentMoniker": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\ProvidersForm.cs",
               "RelativeDocumentMoniker": "Supermarket\\View\\ProvidersForm.cs",
               "ToolTip": "D:\\Archivos VSCM\\Supermarket\\Supermarket\\View\\ProvidersForm.cs",
               "RelativeToolTip": "Supermarket\\View\\ProvidersForm.cs",
-              "ViewState": "AgIAALgAAAAAAAAAAAAQwNUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T14:35:42.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T14:35:42.251Z"
             },
             {
               "$type": "Document",

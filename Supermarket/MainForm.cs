@@ -2,6 +2,7 @@ using Supermarket.Bussines;
 using Supermarket.View;
 using Supermarket.Model;
 using System.Diagnostics;
+using Supermarket.Properties;
 
 namespace Supermarket
 {

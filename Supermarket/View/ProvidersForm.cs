@@ -16,6 +16,7 @@ namespace Supermarket.View
         internal ProvidersForm(ref ProvidersDAO providersDAO)
         {
             InitializeComponent();
+            this.BackgroundImage = Image.FromFile("D:\\Archivos VSCM\\Supermarket\\Supermarket\\Resources\\Supermarket.png");
             this.providersDAO = providersDAO;
             LoadProvidersList();
             EditMode = false;

@@ -21,6 +21,7 @@ namespace Supermarket.View
         internal PayModeForm(ref PayModeDAO payModeDAO)
         {
             InitializeComponent();
+            this.BackgroundImage = Image.FromFile("D:\\Archivos VSCM\\Supermarket\\Supermarket\\Resources\\Supermarket.png");
             this.payModeDAO = payModeDAO;
             LoadPayModeList();
             EditMode = false;

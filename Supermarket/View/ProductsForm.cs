@@ -16,6 +16,7 @@ namespace Supermarket.View
         internal ProductsForm(ref ProductsDAO productsDAO)
         {
             InitializeComponent();
+            this.BackgroundImage = Image.FromFile("D:\\Archivos VSCM\\Supermarket\\Supermarket\\Resources\\Supermarket.png");
             this.productsDAO = productsDAO;
             LoadProductsList();
             EditMode = false;
